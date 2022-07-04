@@ -81,6 +81,15 @@ y luego :
 
 Abra [http://localhost:3000](http://localhost:3000) para verlo en su navegador.
 
+### `Atención 👀` 
+
+No olvides de completar el .env, para ello vas a tener que crearte una cuenta en:
+
+- https://www.themoviedb.org/login
+
+- base url: https://api.themoviedb.org/3
+- url image : https://image.tmdb.org/t/p/w500
+
 ### **_Herramientas utilizadas:_**
 
     ● React.
