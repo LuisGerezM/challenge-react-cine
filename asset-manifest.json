@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/challenge-react-cine/static/css/main.88fa1dc6.css",
-    "main.js": "/challenge-react-cine/static/js/main.a126e790.js",
-    "static/js/954.f0766f08.chunk.js": "/challenge-react-cine/static/js/954.f0766f08.chunk.js",
+    "main.js": "/challenge-react-cine/static/js/main.c7336935.js",
+    "static/js/954.ad7d06a3.chunk.js": "/challenge-react-cine/static/js/954.ad7d06a3.chunk.js",
     "index.html": "/challenge-react-cine/index.html",
     "main.88fa1dc6.css.map": "/challenge-react-cine/static/css/main.88fa1dc6.css.map",
-    "main.a126e790.js.map": "/challenge-react-cine/static/js/main.a126e790.js.map",
-    "954.f0766f08.chunk.js.map": "/challenge-react-cine/static/js/954.f0766f08.chunk.js.map"
+    "main.c7336935.js.map": "/challenge-react-cine/static/js/main.c7336935.js.map",
+    "954.ad7d06a3.chunk.js.map": "/challenge-react-cine/static/js/954.ad7d06a3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.88fa1dc6.css",
-    "static/js/main.a126e790.js"
+    "static/js/main.c7336935.js"
   ]
 }
