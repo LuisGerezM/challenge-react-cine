@@ -22,7 +22,7 @@ export const FormFilterStar = () => {
         >
           {arrayStars.map((btnStar) => (
             <ButtonStylized
-              key={btnStar.id}
+              key={btnStar.id.toString()}
               id={btnStar.id}
               onClick={handleClickFilterStar}
               disabled={isInDetail}

@@ -33,7 +33,7 @@ const Discovery = () => {
 
       <AnimatePresence>
         {renderMoviesArray.map((movie, index) => (
-          <MovieCard key={movie.id} element={movie} index={index} />
+          <MovieCard key={movie.id.toString()}element={movie} index={index} />
         ))}
       </AnimatePresence>
     </RowStylized>
